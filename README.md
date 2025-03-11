@@ -1,7 +1,7 @@
 # Challenge Amigo Secreto, Oracle Next Education
 Projeto do desafio do amigo secreto, Oracle Next Education e Alura.
 
-# Funcionalidade
+# O Projeto
 Sorteia aleatoriamente um nome da lista de amigos fornecida pelo usuário. Cada nome pode ser adicionado à partir do input de entrada — não podendo estar em branco.
 
 <p align="center">
